@@ -1,0 +1,23 @@
+h1{
+  text-align:center;
+}
+body{
+  background:linear-gradient(to left,brown,red,orange,yellow,white );
+  text-align:center;
+}
+h3{
+  text-align:center;
+}
+.left{
+  float:left;
+}
+.right{
+  float:right;
+}
+img{
+  width:300px;
+  height:200px;
+}
+.none{
+  float:none;
+}
